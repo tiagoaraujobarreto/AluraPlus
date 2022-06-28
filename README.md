@@ -11,6 +11,7 @@ Toda a estilização que será usada no projeto dentro do figma.
 - cinza-secundario:#C0C0C0;
 - botao-azul:#167BF7;
 - cor-de-fundo:#00030C;
+- fonte-principal: 'Inter';
 
 
 ## Textos
