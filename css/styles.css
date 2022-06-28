@@ -24,11 +24,21 @@ body {
     background-image: url(../img/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
+    align-items: center;
+    text-align: center;
+}
+
+.container__caixa {
+    margin: 0 6em;
 }
 
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
+}
+
+.container__imagem {
+    margin: 1em  0 2em 0;
 }
 
 .container__botao {
@@ -38,6 +48,7 @@ body {
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
     /*height: 1.75rem;
     width: 100%;
     max-width:30%*/
