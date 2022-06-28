@@ -19,7 +19,7 @@ Toda a estilização que será usada no projeto dentro do figma.
     - Com o Combo+ , você pode aproveitar a Alura+ e o Alura Língua por um preço único.
         - Botão 1 – Assine por 12x de R$120,00* 
         - Botão 2 – Assinar somente o Alura+
-            - O preço pode variar caso a assinatura seja feita em outros planos.
+            - *O preço pode variar caso a assinatura seja feita em outros planos.
 
 2. Texto 2 
     - Assista do seu jeito
