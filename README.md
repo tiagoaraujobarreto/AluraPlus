@@ -39,3 +39,17 @@ Toda a estilização que será usada no projeto dentro do figma.
         - TV
         - Computadores
         - Celulares e tablets
+
+6. Rodapé
+    - Idioma
+    - Dispositivos compatíveis
+    - Contrato de assinatura
+    - Política de privacidade
+    - Proteção de dados no Brasil
+    - Anúncios personalizados
+    - Ajuda
+
+
+7. 
+    - @ 2022 Alura, Alura+ e Alura Língua. Todos os direitos reservados. Serviços de assinatura paga. Conteúdo sujeito a disponibilidade.
+    - Alura+ é um serviço pago, baseado em assinatura a termos e condições. O serviço Alura+ é comercializado por Aovs Sistemas de informática S.A., Rua Vergueiro, 3185 - Liberdade, São Paulo - SP, 04101-300, Brasil e CNPJ 05.555.382/0001-33
